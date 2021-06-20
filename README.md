@@ -1,4 +1,4 @@
-<img src="macintosh_portable_50-pin_hard_drive_adapter_v1.0.png" alt="Macintosh Portable 50-pin Hard Drive Adapter v1.0" style="zoom: 67%;" />
+![Macintosh Portable 50-pin Hard Drive Adapter v1.0](macintosh_portable_50-pin_hard_drive_adapter_v1.0.png)
 
 # Macintosh Portable 50-pin Hard Drive Adapter v1.0
 
