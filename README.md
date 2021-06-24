@@ -6,7 +6,7 @@ An adapter to allow you to use any standard 50-pin SCSI device as the Macintosh 
 
 
 
-<img src="E:\OneDrive\projects\CR2032 Toaster\CR2032 Toaster\docs\discordbanner.png" alt="Discord Open Retro SCSI skunkworks" style="float: left;" />
+<img src="docs/discordbanner.png" alt="Discord Open Retro SCSI skunkworks" style="float: left;" />
 
 Join us in #skunkworks on [Discord](https://discord.gg/GKcvtgU7P9) to help make retro solutions available to all.
 
