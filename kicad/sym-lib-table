@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name "Macintosh Portable 50-pin Hard Drive Adapter")(type Legacy)(uri "${KIPRJMOD}/Macintosh Portable 50-pin Hard Drive Adapter.pretty/Macintosh Portable 50-pin Hard Drive Adapter.lib")(options "")(descr ""))
+  (lib (name snapeda)(type Legacy)(uri ${KIPRJMOD}/snapeda.pretty/snapeda.lib)(options "")(descr ""))
+  (lib (name Macintosh-Portable-50-pin-Hard-Drive-Adapter-v1.1-rescue)(type Legacy)(uri "${KIPRJMOD}/Macintosh Portable 50-pin Hard Drive Adapter v1.1-rescue.lib")(options "")(descr ""))
+)

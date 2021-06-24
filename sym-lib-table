@@ -1,4 +1,0 @@
-(sym_lib_table
-  (lib (name mac_portable_34pin_to_50pin_scsi)(type Legacy)(uri "E:/OneDrive/projects/Macintosh Portable hard drive connector/mac_portable_34pin_to_50pin_scsi/mac_portable_34pin_to_50pin_scsi.pretty/mac_portable_34pin_to_50pin_scsi.lib")(options "")(descr ""))
-  (lib (name mac_portable_34pin_to_50pin_scsi-rescue)(type Legacy)(uri ${KIPRJMOD}/mac_portable_34pin_to_50pin_scsi-rescue.lib)(options "")(descr ""))
-)
